@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "RomsetUnpacker": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Downloads\\Games\\Nintendo - Nintendo Entertainment System (20220713-212517) [headered].zip\" \"output\"",
+      "workingDirectory": "D:\\RomSets\\Temp"
+    }
+  }
+}

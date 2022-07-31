@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>nikita600</Authors>
+    <Description>Unpacker No-Intro romsets for flash cartridges.</Description>
+    <LangVersion>9</LangVersion>
+    <RootNamespace>RomsetUnpacker</RootNamespace>
+  </PropertyGroup>
+
+</Project>
