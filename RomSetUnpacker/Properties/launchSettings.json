@@ -2,8 +2,8 @@
   "profiles": {
     "RomsetUnpacker": {
       "commandName": "Project",
-      "commandLineArgs": "\"D:\\Downloads\\Games\\Nintendo - Nintendo Entertainment System (20220713-212517) [headered].zip\" \"output\"",
-      "workingDirectory": "D:\\RomSets\\Temp"
+      "commandLineArgs": "\"redump.dc.revival directory listing.htm\" \"output\"",
+      "workingDirectory": "G:\\HackingProjects\\RomSetUnpacker\\RomSetUnpacker\\bin\\Debug\\net5.0"
     }
   }
 }
